@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(58, 58, 58);
+    text-align: center;
+   
+}
+
+h1 {
+    color: aliceblue;
+    font-family: Helvetica;
+}
+
+.main-page {
+    padding: 0;
+    line-height: 2;
+    font-family: Helvetica;
+    font-size: 20px;
+
+}
+
+a:link {
+    color: rgb(197, 228, 255);
+}
+
+a:visited {
+    color: rgb(197, 228, 255);
+}
+
+a:hover {
+    color: rgb(255, 227, 195);
+}
